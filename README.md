@@ -383,7 +383,7 @@ Application Insights collects useful data from the web service endpoint, such as
 
 The data is useful for monitoring the endpoint. It also automatically detect performance anomalies, and includes powerful analytics tools to help you diagnose issues and to understand what users actually do with your app. It's designed to help you continuously improve performance and usability.
 
-For example, the dashboard showed all the scoring requests I sent to the endpoint with an average response time of **_312.47_** ms and **_0_** failed request:
+For example, the dashboard showed the **_30_** scoring requests I sent to the endpoint with an average response time of **_312.47_** ms and **_0_** failed request:
 
 ![appinsight](assets/WSUpdt-AppInsightRqst.png)
 
