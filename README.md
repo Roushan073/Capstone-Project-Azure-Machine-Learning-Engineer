@@ -463,7 +463,7 @@ alt="Capstone Project Screencast" width="240" height="180" border="10" /></a>
 
 ## Future Project Improvements
 A small dataset was chosen for this project with the resource and time constraints of Udacity project workspace in mind. Without the constraints, we can possibly try the following improvement ideas:
-> * Increase training time of the model
+> * Increase the model training time
 >
 > * Apply model interpretability of AutoML on more complex and larger datasets, to gain speed and valuable insights in feature engineering, which can in turn help to improve the model accuracy further
 >
