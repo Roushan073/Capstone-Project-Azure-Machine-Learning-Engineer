@@ -470,7 +470,7 @@ A small dataset was chosen for this project with the resource and time constrain
 > * Experiment with different hyperparameter sampling methods like [Gird sampling](https://docs.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.hyperdrive.gridparametersampling?view=azure-ml-py&preserve-view=true) or [Bayesian sampling](https://docs.microsoft.com/en-us/python/api/azureml-train-core/azureml.train.hyperdrive.bayesianparametersampling?view=azure-ml-py&preserve-view=true) on the Scikit-learn LogicRegression model or other custom-coded machine learning models
 
 ## List of Required Screenshots
-The screenshots referenced in this README can be found in the folder named **[assets](https://github.com/atan4583/Capstone-Project-Azure-Machine-Learning-Engineer/tree/master/assets)**. A short description and link to each of them is listed (description marked with an **_asterisk_** denotes **_mandatory_** submission screenshot) here:
+The screenshots referenced in this README can be found in the folder named **[assets](https://github.com/atan4583/Capstone-Project-Azure-Machine-Learning-Engineer/tree/master/assets)**. A short description (description marked with an **_asterisk_** denotes **_mandatory_** submission screenshot) and link to each of them is listed here:
 * Common
   - [Project Workflow Overview](https://github.com/atan4583/Capstone-Project-Azure-Machine-Learning-Engineer/blob/master/assets/MLworkflow.png)
   - [Compute Instance](https://github.com/atan4583/Capstone-Project-Azure-Machine-Learning-Engineer/blob/master/assets/ComputeInstance.png)
