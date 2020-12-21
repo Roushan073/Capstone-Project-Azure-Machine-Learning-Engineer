@@ -442,6 +442,8 @@ Finally, to delete the web service deployed, run the code cells under the markdo
 * The deployment steps described above are for deploying the best AutoML model, to deploy the best HyperDrive model, simply execute the code cells under the markdown cell titled `4. Model Deployment`  section in the `hyperparameter_tuning` notebook.
 * The best model file that was used in this project deployment can be found in the [best_model](https://github.com/atan4583/Capstone-Project-Azure-Machine-Learning-Engineer/tree/master/best_model) folder.
 * The registered model file from the AutoML and HyperDrive experiment runs in this project can be found in the [registered_model](https://github.com/atan4583/Capstone-Project-Azure-Machine-Learning-Engineer/tree/master/registered_model) folder.
+* This [conda environment](https://github.com/atan4583/Capstone-Project-Azure-Machine-Learning-Engineer/blob/master/conda_env.yml) file contains the deployment environment details and must be included in the model deployment.
+* This [scoring script](https://github.com/atan4583/Capstone-Project-Azure-Machine-Learning-Engineer/blob/master/score.py) file contains  the functions used to initialize the deployed web service at startup and run the model using request data passed in by a client call. It must be included in the model deployment.
 
 
 ## Screen Recording
