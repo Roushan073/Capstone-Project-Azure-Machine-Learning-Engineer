@@ -41,12 +41,12 @@ The dataset has 613 records and 13 columns. The input variables are the columns 
 ### Access
 The dataset was downloaded from this [Github Repo](https://raw.githubusercontent.com/atan4583/datasets/master/train.csv) where I have staged it for direct download to the AML workspace using SDK.
 
-Once the dataset was downloaded, the data was cleaned and split into training and validation datasets, stored as Pandas dataframes in memory to facilitate quick data exploration and query, and registered as [AML TabularDatasets](https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.data.tabulardataset?view=azure-ml-py) in the workspace to enable remote access by AutoML experiment running on a remote compute cluster.
+Once the dataset was downloaded, the data was cleaned and split into training and validation datasets, stored as Pandas dataframes in memory to facilitate quick data exploration and query, and registered as [AML TabularDatasets](https://docs.microsoft.com/en-us/python/api/azureml-core/azureml.data.tabulardataset?view=azure-ml-py) in the workspace to enable remote access by the AutoML experiment running on a remote compute cluster.
 
 The dataset after downloaded and registered into the workspace looks like this:
 ![seedds](assets/LoanPred-DS.png)
 
-Datasets in the workspace after the cleannig, splitting and regitration steps:
+Datasets in the workspace after the cleannig, splitting and registration steps:
 
 ![allds](assets/All-DS.png)
 
