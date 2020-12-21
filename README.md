@@ -396,7 +396,7 @@ To print the logs of the web service, run the code cells below the markdown cell
 
 ![printwslogs](assets/PrintWSLogs.png)
 
-Lastly, to run a demo of the active web service scoring endpoint, run the code cells under the markdown cell titled `4.6 Active web service endpoint Demo` in the notebook as shown here:
+Lastly, to run **_a demo of the active web service scoring endpoint_**, run the code cells under the markdown cell titled `4.6 Active web service endpoint Demo` in the notebook as shown here:
 
 > * prepare a sample payload
 >   ```python
